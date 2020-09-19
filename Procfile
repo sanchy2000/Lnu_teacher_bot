@@ -1,0 +1,1 @@
+worker: python lnu-teacher-bot.py
